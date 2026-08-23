@@ -1,5 +1,11 @@
 # 💫 About Me:
-- 🎓 Pursuing BS Cyber Security at University of Central Punjab (UCP).<br>- 🌟 Microsoft Learn Student Ambassador (Community Influencer).<br>- 🔭 Currently working on **CyberShieldX** (a Python-based security auditing framework) & AI automation workflows (n8n, Ollama).<br>- 🌱 Currently learning Advanced Penetration Testing (Ideoversity) & Python Automation (JDC Free IT City).<br>- 🏅 Certified in Digital Marketing and recently completed advanced Microsoft Learn modules (Azure, SQL, GenAI).<br>- 💻 Passionate about Linux administration (Kali, Tails), Cloud Security, and building interactive web layouts with the help of AI (React, Tailwind CSS, Three.js).<br>- 🎬 Outside of tech, I run a hyper-realistic ASMR unboxing YouTube channel **@UnboxAndIgnite** <br>- 📫 How to reach me: umairghaffar759@gmail.com
+- 🎓 Pursuing BS Cyber Security at University of Central Punjab (UCP).<br>-
+- 🌟 Microsoft Learn Student Ambassador (Community Influencer).<br>-
+- 🔭 Currently working on **CyberShieldX** (a Python-based security auditing framework) & AI automation workflows (n8n, Ollama).<br>-
+- 🌱 Currently learning Advanced Penetration Testing (Ideoversity) & Python Automation (JDC Free IT City).<br>- 🏅 Certified in Digital Marketing and recently completed advanced Microsoft Learn modules (Azure, SQL, GenAI).<br>-
+- 💻 Passionate about Linux administration (Kali, Tails), Cloud Security, and building interactive web layouts with the help of AI (React, Tailwind CSS, Three.js).<br>-
+- 🎬 Outside of tech, I run a hyper-realistic ASMR unboxing YouTube channel **@UnboxAndIgnite** <br>-
+- 📫 How to reach me: umairghaffar759@gmail.com
 
 
 ## 🌐 Socials:
